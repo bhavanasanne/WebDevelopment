@@ -1,4 +1,5 @@
-# WebDevelopment
+# OasisInfobyte
+
 Calculator
 Tribute Page
 To Do List
